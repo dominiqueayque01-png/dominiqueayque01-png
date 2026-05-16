@@ -12,7 +12,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/dominiqueayque01-png/dominiqueayque01-png/snake-output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://tenor.com/view/invincible-invincible-war-sinister-mark-viltrumite-mark-invincible-season-3-gif-1227691453076317122"  />
+</div>
 
 ###
 
@@ -97,14 +99,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dominiqueayque01-png/dominiqueayque01-png/pacman-output/puzzle-bobble-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dominiqueayque01-png/dominiqueayque01-png/pacman-output/puzzle-bobble-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dominiqueayque01-png/dominiqueayque01-png/pacman-output/puzzle-bobble-contribution-graph.svg">
-</picture>
 
 ###
 
